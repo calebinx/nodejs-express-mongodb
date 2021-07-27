@@ -1,0 +1,14 @@
+Paquetes npm
+
+. npm init -y
+. npm i express
+. npm i morgan
+. npm i nodemon -g
+. npm i mongoose
+
+Configuracion package.json
+
+"scripts": {
+    "start": "nodemon app"
+}
+
